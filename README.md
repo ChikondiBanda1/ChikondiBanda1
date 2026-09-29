@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a data and software professional with an MSc in Data, Inequality and Society and a BSc in Computing. I build data-driven systems and analytical solutions using Python, SQL, machine learning, databases and visualisation.
 <!--
 **ChikondiBanda1/ChikondiBanda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
